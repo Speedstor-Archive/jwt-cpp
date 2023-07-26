@@ -1,5 +1,5 @@
-cmake_minimum_required(VERSION 3.14)
-cmake_policy(VERSION 3.14)
+cmake_minimum_required(VERSION 3.4.3)
+cmake_policy(VERSION 3.4.3)
 if(POLICY CMP0135) # DOWNLOAD_EXTRACT_TIMESTAMP
   cmake_policy(SET CMP0135 OLD)
 endif()
